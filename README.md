@@ -1,3 +1,3 @@
 # Git test
 
-Hello.
+Hello World.
