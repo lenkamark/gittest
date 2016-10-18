@@ -10,4 +10,4 @@
 
 - hosting (backupbuddy)
 
-
+3. Staging (Stacy)
