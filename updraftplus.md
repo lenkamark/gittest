@@ -10,3 +10,5 @@ Premium page:
 
 ![image](https://cloud.githubusercontent.com/assets/20278456/19431860/6e085508-945a-11e6-8113-1abaec40344e.png)
 
+![image](https://cloud.githubusercontent.com/assets/20278456/19470521/23cbf348-9520-11e6-8820-4321ef72cf8a.png)
+
