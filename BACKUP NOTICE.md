@@ -6,8 +6,10 @@
 - měsíční poplatek
 - záloha na konkrétním cloudu (serveru)
 
-2. Produkt (Loď)
+2. Produkt (Loď, Spacecraft)
 
 - hosting (backupbuddy)
+
+
 
 
